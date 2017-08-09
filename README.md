@@ -1,5 +1,4 @@
 # AmazonX-Ray
-
 Final Project for CSCI-E-81. 
 
 This project was collaborated with Nirmal Labh. 
